@@ -1,1 +1,1 @@
-# full-steck
+# full-stack
