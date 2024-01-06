@@ -1,9 +1,9 @@
 import ListEmployeeComponent from './components/ListEmployeeComponent'
 import './App.css'
 import React from "react"
-import FooterComponent from "./components/FooterComponent"
-import HeaderComponent from "./components/HeaderComponent"
-import {BrowserRouter, Routes, Route} from "react-router-dom"
+import FooterComponent from "./components/FooterComponent";
+import HeaderComponent from "./components/HeaderComponent";
+import {BrowserRouter, Routes, Route} from "react-router-dom";
 import EmployeeComponent from "./components/EmployeeComponent";
 
 function App() {
