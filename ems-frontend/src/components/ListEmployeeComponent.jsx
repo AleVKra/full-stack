@@ -55,5 +55,4 @@ const ListEmployeeComponent = () => {
     </div>
   )
 }
-
 export default ListEmployeeComponent
